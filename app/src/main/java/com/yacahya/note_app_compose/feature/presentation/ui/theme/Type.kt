@@ -1,4 +1,4 @@
-package com.yacahya.note_app_compose.ui.theme
+package com.yacahya.note_app_compose.feature.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
